@@ -292,8 +292,10 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## 👨‍💻 Author
 
-**Suyas Jain**  
-- GitHub: [@SuyasJain](https://github.com/SuyasJain)
+**Suyash Jain**  
+- GitHub: [@suyashjain495](https://github.com/suyashjain495)
+**Suhani Jain**  
+- GitHub: [@suhani1510](https://github.com/suhani1510)
 
 ---
 
