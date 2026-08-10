@@ -1,0 +1,58 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/codeStyles
+/.idea/planningMode.xml
+/.idea/deploymentTargetSelector.xml
+/.idea/kotlinc.xml
+/.idea/appInsightsSettings.xml
+.DS_Store
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Secrets / API keys
+.env
+*.env
+local.defaults.properties
+
+# Keystore files (contain signing keys)
+*.jks
+*.keystore
+
+# Build scripts (local development only)
+*.ps1
+
+# Artifact files (Gemini agent generated)
+*.artifact.md
+
+# Backup files
+*.backup
+
+# Temporary/test files
+app/deps_test.gradle.kts
+
+# Release APKs (should use CI/CD)
+app/release/
+
+# Personal files / images
+*.heic
+*.pdf
+
+# ObjectBox generated models
+app/objectbox-models/
+
+# Zip archives
+*.zip
+
+# IDE specific
+.idea/
